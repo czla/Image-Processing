@@ -1,5 +1,5 @@
 % Description:  this script smoothes the given image with 'pepper&salt'
-%               noise and segement the apple area afterwards.
+%               noise and segment the apple area afterwards.
 % Author:       zlchen
 % Date:         3/14/2019
 % Email:        zlchen@tongji.edu.cn
